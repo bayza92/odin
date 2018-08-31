@@ -1314,7 +1314,6 @@ header.entry-header{
     color: #6c58a4;
     padding: 0px 0% 5px;
     float: left;
-    margin-bottom: 30px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -1322,27 +1321,25 @@ header.page-header{
     width:100%;
 }
 
-h1.page-title{
-    margin: 0 auto;
-    padding: 25px 25px 10px;
-    text-transform: capitalize;
-    text-shadow: 4px 3px #555!important;
-    font-weight: bold;
-    letter-spacing: -4px;
-    width: 100%;
-    float: left;
-    font-size: 3em;
-    background: linear-gradient(360deg, rgb(122, 104, 174), rgb(75, 61, 114));
-    background: -webkit-linear-gradient(360deg, rgb(122, 104, 174), rgb(75, 61, 114));
-    color: #fff;
-    border-bottom: 1px solid #6c58a4;
-}
+h1.page-title {
+    margin: 30px auto!important;
+    padding: 20px 50px;
+    text-transform: capitalize;
+    text-shadow: none!important;
+    font-weight: bold;
+    letter-spacing: 0;
+    width: 100%;
+    float: left;
+    font-size: 2em;
+    background: #fafafa;
+    border: 1px solid #eaeaea!important;
+    border-radius: 5px;
+    color: #373D3F;
+}
 
 h1.entry-title{
     margin:0 auto;
-    padding-top:30px;
     text-transform: capitalize;
-    text-shadow:2px 2px #cacaca;
     border-bottom: 1px solid #6c58a4;
 }
 
