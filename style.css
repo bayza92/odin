@@ -1499,7 +1499,8 @@ h1.entry-title{
     .grid-item{
         width:100%;
         box-sizing: border-box;
-        background: rgba(108, 88, 164, 0.85);
+        background: #eaeaea;
+				    border: 2px solid #eaeaea;
         border-radius:5px;
         float:left;
         margin-bottom:2%;
@@ -1538,7 +1539,11 @@ h1.entry-title{
     }
         
     .grid-item-image img{
-        border-radius:5px;
+		    border-radius: 5px;
+		    object-fit: cover;
+		    height: initial;
+		    min-height: 200px;
+		    width: 100%;
     }
     
     .grid-item-content{
