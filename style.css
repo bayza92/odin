@@ -932,9 +932,9 @@ object {
     width:100%;
     box-sizing: border-box;
     padding:3% 10%;
-    background-color:#eaeaea;
+    background-color:#fafafa;
     max-height:200px;
-    border-bottom:3px solid #7A68AE;
+    border-bottom:1px solid #eaeaea;
 }
 
 .site-content{
@@ -1344,9 +1344,6 @@ h1.entry-title{
 }
 
 
-
-
-
 @media (min-width:0px) { /* smartphones, iPhone, portrait 480x320 phones */ 
     
     .zem_rp_wrap {
@@ -1361,6 +1358,7 @@ h1.entry-title{
         padding:0;
         box-sizing: border-box;
         clear:both;
+				margin-bottom: 50px;
     }
     
     .single #primary{
