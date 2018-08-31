@@ -1466,17 +1466,16 @@ h1.entry-title{
 
     .page-numbers a,
     .page-numbers span {
-        line-height: 1.6em;
-        display: block;
-        padding: 5px 15px;
-        height: 27px;
-        line-height: 18px;
-        font-size: 12px;
-        text-decoration: none;
-        font-weight: 400;
-        cursor: pointer;
-        border: 1px solid #7a68ae;
-        color: #888;
+			line-height: 1.6em;
+			display: block;
+			padding: 5px 15px;
+			font-size: 0.8em;
+			text-decoration: none;
+			font-weight: 400;
+			cursor: pointer;
+			border: 1px solid #7a68ae;
+			color: #373D3F;
+			border-radius: 5px;
     }
 
     .page-numbers a span { padding: 0 }
@@ -1527,16 +1526,22 @@ h1.entry-title{
     }
     
     .grid-item-image h2{
-        position:absolute;
-        background:none;
-        padding:10px 5%;
-        color:#fff;
-        background:rgba(000,000,000,0.75);
-        margin-right:5%;
+			position: absolute;
+			padding: 12px;
+			color: #373D3F;
+			background: #eaeaea;
+			left: 0px;
+			line-height: 20px;
+			font-size: 1.2em;
+			font-weight: 100;
+			text-align: center;
+			width: 100%;
+			margin: 0 auto;
+			bottom: 0;
     }
     
     .grid-item-image h2 a{
-        color:#fff;
+        color:#373D3F;
     }
         
     .grid-item-image img{
