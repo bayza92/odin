@@ -50,7 +50,7 @@
         </div>
 		<div class="site-info">
 			<div id="site-info-created">
-                Web Design by <a href="http://www.tornadocode.com">Tornado Code</a>
+                Site by <a href="//www.tornadocode.com">Tornado Code</a>
             </div>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
